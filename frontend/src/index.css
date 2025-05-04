@@ -1,0 +1,28 @@
+/* index.css */
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 20px;
+}
+.form-container {
+  width: 300px;
+  margin: auto;
+  padding-top: 100px;
+}
+form input {
+  display: block;
+  margin-bottom: 10px;
+  width: 100%;
+  padding: 8px;
+}
+form button {
+  padding: 8px;
+  width: 100%;
+}
+
